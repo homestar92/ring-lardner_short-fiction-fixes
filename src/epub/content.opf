@@ -52,7 +52,7 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
 		<meta property="schema:genre">Shorts</meta>
-		<dc:abstract>A collection of short stories by Ring Lardner.</dc:abstract>
+		<meta property="schema:abstract">A collection of short stories by Ring Lardner.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner"&gt;Ring Lardner&lt;/a&gt; was a prolific 20th century American humorist and journalist best known for his baseball stories and reportage, whose corpus nevertheless spans a wide range of genres and styles. He began his professional career as a sports reporter, but his literary career began in earnest in 1913 when he took over the &lt;i&gt;Chicago Tribune&lt;/i&gt;’s popular “In the Wake of the News” column, for which he wrote daily until 1919.&lt;/p&gt;
 			&lt;p&gt;His career as an author of short fiction took off when his &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/ring-lardner/jack-keefe-stories"&gt;Jack Keefe Stories&lt;/a&gt;&lt;/i&gt; became an instant hit in the &lt;i&gt;Saturday Evening Post&lt;/i&gt;, launching his career as a magazine-first author of fiction that spanned over one hundred different stories published in the era’s most popular magazines, including &lt;i&gt;The Saturday Evening Post&lt;/i&gt;, &lt;i&gt;Collier’s&lt;/i&gt;, &lt;i&gt;Redbook&lt;/i&gt;, and &lt;i&gt;Cosmopolitan&lt;/i&gt;.&lt;/p&gt;
